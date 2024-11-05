@@ -25,7 +25,8 @@ int main() {
         if (isdigit(character)) {
             currentNumber = currentNumber * 10 + character - '0';
             inNumber = true;
-        } else {
+        }
+        else {
             if (inNumber) {
                 if (currentNumber < 100) {
                     sum = sum + currentNumber;
