@@ -1295,6 +1295,105 @@ build lab3_3.exe: CXX_EXECUTABLE_LINKER__lab3_3_Debug CMakeFiles/lab3_3.dir/labs
   TARGET_PDB = lab3_3.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target lab_nedela_3_1v2
+
+
+#############################################
+# Order-only phony target for lab_nedela_3_1v2
+
+build cmake_object_order_depends_target_lab_nedela_3_1v2: phony || .
+
+build CMakeFiles/lab_nedela_3_1v2.dir/labs_vezhbi/lab_nedela_3_1v2.cpp.obj: CXX_COMPILER__lab_nedela_3_1v2_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_nedela_3_1v2.cpp || cmake_object_order_depends_target_lab_nedela_3_1v2
+  DEP_FILE = CMakeFiles\lab_nedela_3_1v2.dir\labs_vezhbi\lab_nedela_3_1v2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_1v2.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_nedela_3_1v2.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_nedela_3_1v2
+
+
+#############################################
+# Link the executable lab_nedela_3_1v2.exe
+
+build lab_nedela_3_1v2.exe: CXX_EXECUTABLE_LINKER__lab_nedela_3_1v2_Debug CMakeFiles/lab_nedela_3_1v2.dir/labs_vezhbi/lab_nedela_3_1v2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_1v2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_nedela_3_1v2.exe
+  TARGET_IMPLIB = liblab_nedela_3_1v2.dll.a
+  TARGET_PDB = lab_nedela_3_1v2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_nedela_3_2v2
+
+
+#############################################
+# Order-only phony target for lab_nedela_3_2v2
+
+build cmake_object_order_depends_target_lab_nedela_3_2v2: phony || .
+
+build CMakeFiles/lab_nedela_3_2v2.dir/labs_vezhbi/lab_nedela_3_2v2.cpp.obj: CXX_COMPILER__lab_nedela_3_2v2_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_nedela_3_2v2.cpp || cmake_object_order_depends_target_lab_nedela_3_2v2
+  DEP_FILE = CMakeFiles\lab_nedela_3_2v2.dir\labs_vezhbi\lab_nedela_3_2v2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_2v2.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_nedela_3_2v2.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_nedela_3_2v2
+
+
+#############################################
+# Link the executable lab_nedela_3_2v2.exe
+
+build lab_nedela_3_2v2.exe: CXX_EXECUTABLE_LINKER__lab_nedela_3_2v2_Debug CMakeFiles/lab_nedela_3_2v2.dir/labs_vezhbi/lab_nedela_3_2v2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_2v2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_nedela_3_2v2.exe
+  TARGET_IMPLIB = liblab_nedela_3_2v2.dll.a
+  TARGET_PDB = lab_nedela_3_2v2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_nedela_3_3v2
+
+
+#############################################
+# Order-only phony target for lab_nedela_3_3v2
+
+build cmake_object_order_depends_target_lab_nedela_3_3v2: phony || .
+
+build CMakeFiles/lab_nedela_3_3v2.dir/labs_vezhbi/lab_nedela_3_3v2.cpp.obj: CXX_COMPILER__lab_nedela_3_3v2_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_nedela_3_3v2.cpp || cmake_object_order_depends_target_lab_nedela_3_3v2
+  DEP_FILE = CMakeFiles\lab_nedela_3_3v2.dir\labs_vezhbi\lab_nedela_3_3v2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_3v2.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_nedela_3_3v2.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_nedela_3_3v2
+
+
+#############################################
+# Link the executable lab_nedela_3_3v2.exe
+
+build lab_nedela_3_3v2.exe: CXX_EXECUTABLE_LINKER__lab_nedela_3_3v2_Debug CMakeFiles/lab_nedela_3_3v2.dir/labs_vezhbi/lab_nedela_3_3v2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_nedela_3_3v2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_nedela_3_3v2.exe
+  TARGET_IMPLIB = liblab_nedela_3_3v2.dll.a
+  TARGET_PDB = lab_nedela_3_3v2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target lab_ushtrimi_1
 
 
@@ -2284,6 +2383,12 @@ build lab3_3: phony lab3_3.exe
 
 build lab_1_2: phony lab_1_2.exe
 
+build lab_nedela_3_1v2: phony lab_nedela_3_1v2.exe
+
+build lab_nedela_3_2v2: phony lab_nedela_3_2v2.exe
+
+build lab_nedela_3_3v2: phony lab_nedela_3_3v2.exe
+
 build lab_ushtrimi_1: phony lab_ushtrimi_1.exe
 
 build lab_ushtrimi_2: phony lab_ushtrimi_2.exe
@@ -2314,7 +2419,7 @@ build labs2_3: phony labs2_3.exe
 #############################################
 # Folder: D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug
 
-build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe
+build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe
 
 # =============================================================================
 # Built-in targets
