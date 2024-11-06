@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lab_ushtrimi_3.exe"
+			"path" : "ispitna11.exe"
 		},
 		{
-			"path" : "lab_ushtrimi_3.pdb"
+			"path" : "ispitna11.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 67,
+				"line" : 89,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "lab_ushtrimi_3::@6890427a1f51a3e7e1df",
+	"id" : "ispitna11::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "lab_ushtrimi_3",
-	"nameOnDisk" : "lab_ushtrimi_3.exe",
+	"name" : "ispitna11",
+	"nameOnDisk" : "ispitna11.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "labs_vezhbi/lab_ushtrime/lab_ushtrimi_3.cpp",
+			"path" : "ispitni_vezhbi/ispitna11.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
