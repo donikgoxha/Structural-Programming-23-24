@@ -9,5 +9,29 @@
 using namespace std;
 
 int main() {
+    int broj;
+    int brojac = 0;
+
+    cin >> broj;
+
+    for (int i = broj - 1; i > 0; i--) {
+        int suma_cifri = 0;
+        int obraten_broj = 0;
+        int temp = i;
+        while (temp > 0) {
+            int posledna = temp % 10;
+            obraten_broj = (obraten_broj * 10) + posledna;
+            suma_cifri += posledna;
+            temp /= 10;
+        }
+        if (i == obraten_broj && i % suma_cifri == 0) {
+            cout << i << endl;
+            brojac++;
+            if (brojac == 10) {
+                break;
+            }
+        }
+    }
+
     return 0;
 }

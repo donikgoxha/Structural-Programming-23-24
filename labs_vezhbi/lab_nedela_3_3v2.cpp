@@ -9,5 +9,21 @@
 using namespace std;
 
 int main() {
+    int broj;
+    int suma_maksimumi = 0;
+    int brojac = 0;
+    while (cin >> broj) {
+        int max_cifra = 0;
+        while (broj > 0) {
+            int posledna = broj % 10;
+            if (posledna > max_cifra) {
+                max_cifra = posledna;
+            }
+            broj /= 10;
+        }
+        cout << max_cifra << endl;
+        suma_maksimumi += max_cifra;
+    }
+    cout << suma_maksimumi / (brojac * 1.0) << endl;
     return 0;
 }
