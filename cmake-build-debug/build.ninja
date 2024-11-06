@@ -1756,6 +1756,402 @@ build ispitna6.exe: CXX_EXECUTABLE_LINKER__ispitna6_Debug CMakeFiles/ispitna6.di
   TARGET_IMPLIB = libispitna6.dll.a
   TARGET_PDB = ispitna6.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna7
+
+
+#############################################
+# Order-only phony target for ispitna7
+
+build cmake_object_order_depends_target_ispitna7: phony || .
+
+build CMakeFiles/ispitna7.dir/ispitni_vezhbi/ispitna7.cpp.obj: CXX_COMPILER__ispitna7_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna7.cpp || cmake_object_order_depends_target_ispitna7
+  DEP_FILE = CMakeFiles\ispitna7.dir\ispitni_vezhbi\ispitna7.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna7.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna7.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna7
+
+
+#############################################
+# Link the executable ispitna7.exe
+
+build ispitna7.exe: CXX_EXECUTABLE_LINKER__ispitna7_Debug CMakeFiles/ispitna7.dir/ispitni_vezhbi/ispitna7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna7.exe
+  TARGET_IMPLIB = libispitna7.dll.a
+  TARGET_PDB = ispitna7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna8
+
+
+#############################################
+# Order-only phony target for ispitna8
+
+build cmake_object_order_depends_target_ispitna8: phony || .
+
+build CMakeFiles/ispitna8.dir/ispitni_vezhbi/ispitna8.cpp.obj: CXX_COMPILER__ispitna8_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna8.cpp || cmake_object_order_depends_target_ispitna8
+  DEP_FILE = CMakeFiles\ispitna8.dir\ispitni_vezhbi\ispitna8.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna8.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna8.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna8
+
+
+#############################################
+# Link the executable ispitna8.exe
+
+build ispitna8.exe: CXX_EXECUTABLE_LINKER__ispitna8_Debug CMakeFiles/ispitna8.dir/ispitni_vezhbi/ispitna8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna8.exe
+  TARGET_IMPLIB = libispitna8.dll.a
+  TARGET_PDB = ispitna8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna9
+
+
+#############################################
+# Order-only phony target for ispitna9
+
+build cmake_object_order_depends_target_ispitna9: phony || .
+
+build CMakeFiles/ispitna9.dir/ispitni_vezhbi/ispitna9.cpp.obj: CXX_COMPILER__ispitna9_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna9.cpp || cmake_object_order_depends_target_ispitna9
+  DEP_FILE = CMakeFiles\ispitna9.dir\ispitni_vezhbi\ispitna9.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna9.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna9.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna9
+
+
+#############################################
+# Link the executable ispitna9.exe
+
+build ispitna9.exe: CXX_EXECUTABLE_LINKER__ispitna9_Debug CMakeFiles/ispitna9.dir/ispitni_vezhbi/ispitna9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna9.exe
+  TARGET_IMPLIB = libispitna9.dll.a
+  TARGET_PDB = ispitna9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna10
+
+
+#############################################
+# Order-only phony target for ispitna10
+
+build cmake_object_order_depends_target_ispitna10: phony || .
+
+build CMakeFiles/ispitna10.dir/ispitni_vezhbi/ispitna10.cpp.obj: CXX_COMPILER__ispitna10_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna10.cpp || cmake_object_order_depends_target_ispitna10
+  DEP_FILE = CMakeFiles\ispitna10.dir\ispitni_vezhbi\ispitna10.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna10.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna10.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna10
+
+
+#############################################
+# Link the executable ispitna10.exe
+
+build ispitna10.exe: CXX_EXECUTABLE_LINKER__ispitna10_Debug CMakeFiles/ispitna10.dir/ispitni_vezhbi/ispitna10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna10.exe
+  TARGET_IMPLIB = libispitna10.dll.a
+  TARGET_PDB = ispitna10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna11
+
+
+#############################################
+# Order-only phony target for ispitna11
+
+build cmake_object_order_depends_target_ispitna11: phony || .
+
+build CMakeFiles/ispitna11.dir/ispitni_vezhbi/ispitna11.cpp.obj: CXX_COMPILER__ispitna11_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna11.cpp || cmake_object_order_depends_target_ispitna11
+  DEP_FILE = CMakeFiles\ispitna11.dir\ispitni_vezhbi\ispitna11.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna11.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna11.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna11
+
+
+#############################################
+# Link the executable ispitna11.exe
+
+build ispitna11.exe: CXX_EXECUTABLE_LINKER__ispitna11_Debug CMakeFiles/ispitna11.dir/ispitni_vezhbi/ispitna11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna11.exe
+  TARGET_IMPLIB = libispitna11.dll.a
+  TARGET_PDB = ispitna11.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna12
+
+
+#############################################
+# Order-only phony target for ispitna12
+
+build cmake_object_order_depends_target_ispitna12: phony || .
+
+build CMakeFiles/ispitna12.dir/ispitni_vezhbi/ispitna12.cpp.obj: CXX_COMPILER__ispitna12_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna12.cpp || cmake_object_order_depends_target_ispitna12
+  DEP_FILE = CMakeFiles\ispitna12.dir\ispitni_vezhbi\ispitna12.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna12.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna12.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna12
+
+
+#############################################
+# Link the executable ispitna12.exe
+
+build ispitna12.exe: CXX_EXECUTABLE_LINKER__ispitna12_Debug CMakeFiles/ispitna12.dir/ispitni_vezhbi/ispitna12.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna12.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna12.exe
+  TARGET_IMPLIB = libispitna12.dll.a
+  TARGET_PDB = ispitna12.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna13
+
+
+#############################################
+# Order-only phony target for ispitna13
+
+build cmake_object_order_depends_target_ispitna13: phony || .
+
+build CMakeFiles/ispitna13.dir/ispitni_vezhbi/ispitna13.cpp.obj: CXX_COMPILER__ispitna13_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna13.cpp || cmake_object_order_depends_target_ispitna13
+  DEP_FILE = CMakeFiles\ispitna13.dir\ispitni_vezhbi\ispitna13.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna13.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna13.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna13
+
+
+#############################################
+# Link the executable ispitna13.exe
+
+build ispitna13.exe: CXX_EXECUTABLE_LINKER__ispitna13_Debug CMakeFiles/ispitna13.dir/ispitni_vezhbi/ispitna13.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna13.exe
+  TARGET_IMPLIB = libispitna13.dll.a
+  TARGET_PDB = ispitna13.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna14
+
+
+#############################################
+# Order-only phony target for ispitna14
+
+build cmake_object_order_depends_target_ispitna14: phony || .
+
+build CMakeFiles/ispitna14.dir/ispitni_vezhbi/ispitna14.cpp.obj: CXX_COMPILER__ispitna14_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna14.cpp || cmake_object_order_depends_target_ispitna14
+  DEP_FILE = CMakeFiles\ispitna14.dir\ispitni_vezhbi\ispitna14.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna14.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna14.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna14
+
+
+#############################################
+# Link the executable ispitna14.exe
+
+build ispitna14.exe: CXX_EXECUTABLE_LINKER__ispitna14_Debug CMakeFiles/ispitna14.dir/ispitni_vezhbi/ispitna14.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna14.exe
+  TARGET_IMPLIB = libispitna14.dll.a
+  TARGET_PDB = ispitna14.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna15
+
+
+#############################################
+# Order-only phony target for ispitna15
+
+build cmake_object_order_depends_target_ispitna15: phony || .
+
+build CMakeFiles/ispitna15.dir/ispitni_vezhbi/ispitna15.cpp.obj: CXX_COMPILER__ispitna15_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna15.cpp || cmake_object_order_depends_target_ispitna15
+  DEP_FILE = CMakeFiles\ispitna15.dir\ispitni_vezhbi\ispitna15.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna15.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna15.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna15
+
+
+#############################################
+# Link the executable ispitna15.exe
+
+build ispitna15.exe: CXX_EXECUTABLE_LINKER__ispitna15_Debug CMakeFiles/ispitna15.dir/ispitni_vezhbi/ispitna15.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna15.exe
+  TARGET_IMPLIB = libispitna15.dll.a
+  TARGET_PDB = ispitna15.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna16
+
+
+#############################################
+# Order-only phony target for ispitna16
+
+build cmake_object_order_depends_target_ispitna16: phony || .
+
+build CMakeFiles/ispitna16.dir/ispitni_vezhbi/ispitna16.cpp.obj: CXX_COMPILER__ispitna16_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna16.cpp || cmake_object_order_depends_target_ispitna16
+  DEP_FILE = CMakeFiles\ispitna16.dir\ispitni_vezhbi\ispitna16.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna16.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna16.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna16
+
+
+#############################################
+# Link the executable ispitna16.exe
+
+build ispitna16.exe: CXX_EXECUTABLE_LINKER__ispitna16_Debug CMakeFiles/ispitna16.dir/ispitni_vezhbi/ispitna16.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna16.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna16.exe
+  TARGET_IMPLIB = libispitna16.dll.a
+  TARGET_PDB = ispitna16.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna17
+
+
+#############################################
+# Order-only phony target for ispitna17
+
+build cmake_object_order_depends_target_ispitna17: phony || .
+
+build CMakeFiles/ispitna17.dir/ispitni_vezhbi/ispitna17.cpp.obj: CXX_COMPILER__ispitna17_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna17.cpp || cmake_object_order_depends_target_ispitna17
+  DEP_FILE = CMakeFiles\ispitna17.dir\ispitni_vezhbi\ispitna17.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna17.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna17.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna17
+
+
+#############################################
+# Link the executable ispitna17.exe
+
+build ispitna17.exe: CXX_EXECUTABLE_LINKER__ispitna17_Debug CMakeFiles/ispitna17.dir/ispitni_vezhbi/ispitna17.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna17.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna17.exe
+  TARGET_IMPLIB = libispitna17.dll.a
+  TARGET_PDB = ispitna17.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ispitna18
+
+
+#############################################
+# Order-only phony target for ispitna18
+
+build cmake_object_order_depends_target_ispitna18: phony || .
+
+build CMakeFiles/ispitna18.dir/ispitni_vezhbi/ispitna18.cpp.obj: CXX_COMPILER__ispitna18_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/ispitni_vezhbi/ispitna18.cpp || cmake_object_order_depends_target_ispitna18
+  DEP_FILE = CMakeFiles\ispitna18.dir\ispitni_vezhbi\ispitna18.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ispitna18.dir
+  OBJECT_FILE_DIR = CMakeFiles\ispitna18.dir\ispitni_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ispitna18
+
+
+#############################################
+# Link the executable ispitna18.exe
+
+build ispitna18.exe: CXX_EXECUTABLE_LINKER__ispitna18_Debug CMakeFiles/ispitna18.dir/ispitni_vezhbi/ispitna18.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ispitna18.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ispitna18.exe
+  TARGET_IMPLIB = libispitna18.dll.a
+  TARGET_PDB = ispitna18.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1844,6 +2240,24 @@ build aud7_2: phony aud7_2.exe
 
 build ispitna1: phony ispitna1.exe
 
+build ispitna10: phony ispitna10.exe
+
+build ispitna11: phony ispitna11.exe
+
+build ispitna12: phony ispitna12.exe
+
+build ispitna13: phony ispitna13.exe
+
+build ispitna14: phony ispitna14.exe
+
+build ispitna15: phony ispitna15.exe
+
+build ispitna16: phony ispitna16.exe
+
+build ispitna17: phony ispitna17.exe
+
+build ispitna18: phony ispitna18.exe
+
 build ispitna2: phony ispitna2.exe
 
 build ispitna3: phony ispitna3.exe
@@ -1853,6 +2267,12 @@ build ispitna4: phony ispitna4.exe
 build ispitna5: phony ispitna5.exe
 
 build ispitna6: phony ispitna6.exe
+
+build ispitna7: phony ispitna7.exe
+
+build ispitna8: phony ispitna8.exe
+
+build ispitna9: phony ispitna9.exe
 
 build lab1_1: phony lab1_1.exe
 
@@ -1894,7 +2314,7 @@ build labs2_3: phony labs2_3.exe
 #############################################
 # Folder: D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug
 
-build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe
+build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe
 
 # =============================================================================
 # Built-in targets
