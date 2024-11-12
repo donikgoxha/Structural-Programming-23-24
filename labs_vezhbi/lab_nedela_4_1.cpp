@@ -1,15 +1,14 @@
 //
 // Created by Donik Goxha on 05-Nov-24.
-//
-//3. Se vnesuvaat 3 broevi X, C, P. Da se ispechatat 10 broevi pogolemi od X,
-//koi shto go sodrzhat brojot C, P pati.
-//Primer input: 100 2 2
-//output:122,202,212
+/*
+PRVA
+vnesvis broj primer 45321 i da se ispecatit 45 (samo prvite 2 cifri)
+Daen bil cel main ti samo da dodajsh funkcija PrviDveCifri
+*/
 
 #include <iostream>
 using namespace std;
 
 int main() {
-
     return 0;
 }

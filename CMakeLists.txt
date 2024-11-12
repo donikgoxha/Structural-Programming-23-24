@@ -68,7 +68,6 @@ add_executable(lab4_1 labs_vezhbi/lab_nedela_4_1.cpp)
 add_executable(lab4_2 labs_vezhbi/lab_nedela_4_2.cpp)
 add_executable(lab4_3 labs_vezhbi/lab_nedela_4_3.cpp)
 
-
 add_executable(lab_ushtrimi_1 labs_vezhbi/lab_ushtrime/lab_ushtrimi_1.cpp)
 add_executable(lab_ushtrimi_2 labs_vezhbi/lab_ushtrime/lab_ushtrimi_2.cpp)
 add_executable(lab_ushtrimi_3 labs_vezhbi/lab_ushtrime/lab_ushtrimi_3.cpp)
