@@ -9,6 +9,17 @@ Daen bil cel main ti samo da dodajsh funkcija PrviDveCifri
 #include <iostream>
 using namespace std;
 
+int firstTwoDigits(int number) {
+    while (number >= 100) {
+        number = number / 10;
+    }
+    return number;
+}
+
 int main() {
+    int number;
+    cin >> number;
+
+    cout << firstTwoDigits(number) << endl;
     return 0;
 }
