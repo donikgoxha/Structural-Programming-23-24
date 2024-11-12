@@ -42,6 +42,7 @@ int main() {
 
     while (foundNumbers < p) {
         if (countOccurances(currentNumbers, c) == p) {
+            cout << currentNumbers << endl;
             foundNumbers++;
         }
         currentNumbers++;
