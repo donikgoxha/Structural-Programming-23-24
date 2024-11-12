@@ -2219,6 +2219,732 @@ build lab_ushtrimi_8.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_8_Debug CMakeFiles
   TARGET_PDB = lab_ushtrimi_8.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_9
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_9
+
+build cmake_object_order_depends_target_lab_ushtrimi_9: phony || .
+
+build CMakeFiles/lab_ushtrimi_9.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_9.cpp.obj: CXX_COMPILER__lab_ushtrimi_9_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_9.cpp || cmake_object_order_depends_target_lab_ushtrimi_9
+  DEP_FILE = CMakeFiles\lab_ushtrimi_9.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_9.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_9.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_9.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_9
+
+
+#############################################
+# Link the executable lab_ushtrimi_9.exe
+
+build lab_ushtrimi_9.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_9_Debug CMakeFiles/lab_ushtrimi_9.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_9.exe
+  TARGET_IMPLIB = liblab_ushtrimi_9.dll.a
+  TARGET_PDB = lab_ushtrimi_9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_10
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_10
+
+build cmake_object_order_depends_target_lab_ushtrimi_10: phony || .
+
+build CMakeFiles/lab_ushtrimi_10.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_10.cpp.obj: CXX_COMPILER__lab_ushtrimi_10_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_10.cpp || cmake_object_order_depends_target_lab_ushtrimi_10
+  DEP_FILE = CMakeFiles\lab_ushtrimi_10.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_10.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_10.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_10.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_10
+
+
+#############################################
+# Link the executable lab_ushtrimi_10.exe
+
+build lab_ushtrimi_10.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_10_Debug CMakeFiles/lab_ushtrimi_10.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_10.exe
+  TARGET_IMPLIB = liblab_ushtrimi_10.dll.a
+  TARGET_PDB = lab_ushtrimi_10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_11
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_11
+
+build cmake_object_order_depends_target_lab_ushtrimi_11: phony || .
+
+build CMakeFiles/lab_ushtrimi_11.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_11.cpp.obj: CXX_COMPILER__lab_ushtrimi_11_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_11.cpp || cmake_object_order_depends_target_lab_ushtrimi_11
+  DEP_FILE = CMakeFiles\lab_ushtrimi_11.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_11.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_11.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_11.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_11
+
+
+#############################################
+# Link the executable lab_ushtrimi_11.exe
+
+build lab_ushtrimi_11.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_11_Debug CMakeFiles/lab_ushtrimi_11.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_11.exe
+  TARGET_IMPLIB = liblab_ushtrimi_11.dll.a
+  TARGET_PDB = lab_ushtrimi_11.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_12
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_12
+
+build cmake_object_order_depends_target_lab_ushtrimi_12: phony || .
+
+build CMakeFiles/lab_ushtrimi_12.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_12.cpp.obj: CXX_COMPILER__lab_ushtrimi_12_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_12.cpp || cmake_object_order_depends_target_lab_ushtrimi_12
+  DEP_FILE = CMakeFiles\lab_ushtrimi_12.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_12.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_12.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_12.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_12
+
+
+#############################################
+# Link the executable lab_ushtrimi_12.exe
+
+build lab_ushtrimi_12.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_12_Debug CMakeFiles/lab_ushtrimi_12.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_12.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_12.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_12.exe
+  TARGET_IMPLIB = liblab_ushtrimi_12.dll.a
+  TARGET_PDB = lab_ushtrimi_12.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_13
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_13
+
+build cmake_object_order_depends_target_lab_ushtrimi_13: phony || .
+
+build CMakeFiles/lab_ushtrimi_13.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_13.cpp.obj: CXX_COMPILER__lab_ushtrimi_13_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_13.cpp || cmake_object_order_depends_target_lab_ushtrimi_13
+  DEP_FILE = CMakeFiles\lab_ushtrimi_13.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_13.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_13.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_13.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_13
+
+
+#############################################
+# Link the executable lab_ushtrimi_13.exe
+
+build lab_ushtrimi_13.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_13_Debug CMakeFiles/lab_ushtrimi_13.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_13.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_13.exe
+  TARGET_IMPLIB = liblab_ushtrimi_13.dll.a
+  TARGET_PDB = lab_ushtrimi_13.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_14
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_14
+
+build cmake_object_order_depends_target_lab_ushtrimi_14: phony || .
+
+build CMakeFiles/lab_ushtrimi_14.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_14.cpp.obj: CXX_COMPILER__lab_ushtrimi_14_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_14.cpp || cmake_object_order_depends_target_lab_ushtrimi_14
+  DEP_FILE = CMakeFiles\lab_ushtrimi_14.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_14.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_14.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_14.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_14
+
+
+#############################################
+# Link the executable lab_ushtrimi_14.exe
+
+build lab_ushtrimi_14.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_14_Debug CMakeFiles/lab_ushtrimi_14.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_14.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_14.exe
+  TARGET_IMPLIB = liblab_ushtrimi_14.dll.a
+  TARGET_PDB = lab_ushtrimi_14.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_15
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_15
+
+build cmake_object_order_depends_target_lab_ushtrimi_15: phony || .
+
+build CMakeFiles/lab_ushtrimi_15.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_15.cpp.obj: CXX_COMPILER__lab_ushtrimi_15_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_15.cpp || cmake_object_order_depends_target_lab_ushtrimi_15
+  DEP_FILE = CMakeFiles\lab_ushtrimi_15.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_15.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_15.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_15.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_15
+
+
+#############################################
+# Link the executable lab_ushtrimi_15.exe
+
+build lab_ushtrimi_15.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_15_Debug CMakeFiles/lab_ushtrimi_15.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_15.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_15.exe
+  TARGET_IMPLIB = liblab_ushtrimi_15.dll.a
+  TARGET_PDB = lab_ushtrimi_15.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_16
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_16
+
+build cmake_object_order_depends_target_lab_ushtrimi_16: phony || .
+
+build CMakeFiles/lab_ushtrimi_16.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_16.cpp.obj: CXX_COMPILER__lab_ushtrimi_16_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_16.cpp || cmake_object_order_depends_target_lab_ushtrimi_16
+  DEP_FILE = CMakeFiles\lab_ushtrimi_16.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_16.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_16.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_16.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_16
+
+
+#############################################
+# Link the executable lab_ushtrimi_16.exe
+
+build lab_ushtrimi_16.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_16_Debug CMakeFiles/lab_ushtrimi_16.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_16.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_16.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_16.exe
+  TARGET_IMPLIB = liblab_ushtrimi_16.dll.a
+  TARGET_PDB = lab_ushtrimi_16.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_17
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_17
+
+build cmake_object_order_depends_target_lab_ushtrimi_17: phony || .
+
+build CMakeFiles/lab_ushtrimi_17.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_17.cpp.obj: CXX_COMPILER__lab_ushtrimi_17_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_17.cpp || cmake_object_order_depends_target_lab_ushtrimi_17
+  DEP_FILE = CMakeFiles\lab_ushtrimi_17.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_17.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_17.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_17.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_17
+
+
+#############################################
+# Link the executable lab_ushtrimi_17.exe
+
+build lab_ushtrimi_17.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_17_Debug CMakeFiles/lab_ushtrimi_17.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_17.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_17.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_17.exe
+  TARGET_IMPLIB = liblab_ushtrimi_17.dll.a
+  TARGET_PDB = lab_ushtrimi_17.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_18
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_18
+
+build cmake_object_order_depends_target_lab_ushtrimi_18: phony || .
+
+build CMakeFiles/lab_ushtrimi_18.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_18.cpp.obj: CXX_COMPILER__lab_ushtrimi_18_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_18.cpp || cmake_object_order_depends_target_lab_ushtrimi_18
+  DEP_FILE = CMakeFiles\lab_ushtrimi_18.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_18.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_18.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_18.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_18
+
+
+#############################################
+# Link the executable lab_ushtrimi_18.exe
+
+build lab_ushtrimi_18.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_18_Debug CMakeFiles/lab_ushtrimi_18.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_18.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_18.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_18.exe
+  TARGET_IMPLIB = liblab_ushtrimi_18.dll.a
+  TARGET_PDB = lab_ushtrimi_18.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_19
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_19
+
+build cmake_object_order_depends_target_lab_ushtrimi_19: phony || .
+
+build CMakeFiles/lab_ushtrimi_19.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_19.cpp.obj: CXX_COMPILER__lab_ushtrimi_19_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_19.cpp || cmake_object_order_depends_target_lab_ushtrimi_19
+  DEP_FILE = CMakeFiles\lab_ushtrimi_19.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_19.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_19.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_19.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_19
+
+
+#############################################
+# Link the executable lab_ushtrimi_19.exe
+
+build lab_ushtrimi_19.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_19_Debug CMakeFiles/lab_ushtrimi_19.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_19.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_19.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_19.exe
+  TARGET_IMPLIB = liblab_ushtrimi_19.dll.a
+  TARGET_PDB = lab_ushtrimi_19.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_20
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_20
+
+build cmake_object_order_depends_target_lab_ushtrimi_20: phony || .
+
+build CMakeFiles/lab_ushtrimi_20.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_20.cpp.obj: CXX_COMPILER__lab_ushtrimi_20_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_20.cpp || cmake_object_order_depends_target_lab_ushtrimi_20
+  DEP_FILE = CMakeFiles\lab_ushtrimi_20.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_20.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_20.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_20.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_20
+
+
+#############################################
+# Link the executable lab_ushtrimi_20.exe
+
+build lab_ushtrimi_20.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_20_Debug CMakeFiles/lab_ushtrimi_20.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_20.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_20.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_20.exe
+  TARGET_IMPLIB = liblab_ushtrimi_20.dll.a
+  TARGET_PDB = lab_ushtrimi_20.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_21
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_21
+
+build cmake_object_order_depends_target_lab_ushtrimi_21: phony || .
+
+build CMakeFiles/lab_ushtrimi_21.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_21.cpp.obj: CXX_COMPILER__lab_ushtrimi_21_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_21.cpp || cmake_object_order_depends_target_lab_ushtrimi_21
+  DEP_FILE = CMakeFiles\lab_ushtrimi_21.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_21.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_21.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_21.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_21
+
+
+#############################################
+# Link the executable lab_ushtrimi_21.exe
+
+build lab_ushtrimi_21.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_21_Debug CMakeFiles/lab_ushtrimi_21.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_21.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_21.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_21.exe
+  TARGET_IMPLIB = liblab_ushtrimi_21.dll.a
+  TARGET_PDB = lab_ushtrimi_21.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_22
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_22
+
+build cmake_object_order_depends_target_lab_ushtrimi_22: phony || .
+
+build CMakeFiles/lab_ushtrimi_22.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_22.cpp.obj: CXX_COMPILER__lab_ushtrimi_22_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_22.cpp || cmake_object_order_depends_target_lab_ushtrimi_22
+  DEP_FILE = CMakeFiles\lab_ushtrimi_22.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_22.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_22.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_22.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_22
+
+
+#############################################
+# Link the executable lab_ushtrimi_22.exe
+
+build lab_ushtrimi_22.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_22_Debug CMakeFiles/lab_ushtrimi_22.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_22.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_22.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_22.exe
+  TARGET_IMPLIB = liblab_ushtrimi_22.dll.a
+  TARGET_PDB = lab_ushtrimi_22.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_23
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_23
+
+build cmake_object_order_depends_target_lab_ushtrimi_23: phony || .
+
+build CMakeFiles/lab_ushtrimi_23.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_23.cpp.obj: CXX_COMPILER__lab_ushtrimi_23_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_23.cpp || cmake_object_order_depends_target_lab_ushtrimi_23
+  DEP_FILE = CMakeFiles\lab_ushtrimi_23.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_23.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_23.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_23
+
+
+#############################################
+# Link the executable lab_ushtrimi_23.exe
+
+build lab_ushtrimi_23.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_23_Debug CMakeFiles/lab_ushtrimi_23.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_23.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_23.exe
+  TARGET_IMPLIB = liblab_ushtrimi_23.dll.a
+  TARGET_PDB = lab_ushtrimi_23.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_24
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_24
+
+build cmake_object_order_depends_target_lab_ushtrimi_24: phony || .
+
+build CMakeFiles/lab_ushtrimi_24.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_24.cpp.obj: CXX_COMPILER__lab_ushtrimi_24_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_24.cpp || cmake_object_order_depends_target_lab_ushtrimi_24
+  DEP_FILE = CMakeFiles\lab_ushtrimi_24.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_24.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_24.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_24.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_24
+
+
+#############################################
+# Link the executable lab_ushtrimi_24.exe
+
+build lab_ushtrimi_24.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_24_Debug CMakeFiles/lab_ushtrimi_24.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_24.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_24.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_24.exe
+  TARGET_IMPLIB = liblab_ushtrimi_24.dll.a
+  TARGET_PDB = lab_ushtrimi_24.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_25
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_25
+
+build cmake_object_order_depends_target_lab_ushtrimi_25: phony || .
+
+build CMakeFiles/lab_ushtrimi_25.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_25.cpp.obj: CXX_COMPILER__lab_ushtrimi_25_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_25.cpp || cmake_object_order_depends_target_lab_ushtrimi_25
+  DEP_FILE = CMakeFiles\lab_ushtrimi_25.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_25.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_25.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_25.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_25
+
+
+#############################################
+# Link the executable lab_ushtrimi_25.exe
+
+build lab_ushtrimi_25.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_25_Debug CMakeFiles/lab_ushtrimi_25.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_25.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_25.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_25.exe
+  TARGET_IMPLIB = liblab_ushtrimi_25.dll.a
+  TARGET_PDB = lab_ushtrimi_25.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_26
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_26
+
+build cmake_object_order_depends_target_lab_ushtrimi_26: phony || .
+
+build CMakeFiles/lab_ushtrimi_26.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_26.cpp.obj: CXX_COMPILER__lab_ushtrimi_26_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_26.cpp || cmake_object_order_depends_target_lab_ushtrimi_26
+  DEP_FILE = CMakeFiles\lab_ushtrimi_26.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_26.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_26.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_26.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_26
+
+
+#############################################
+# Link the executable lab_ushtrimi_26.exe
+
+build lab_ushtrimi_26.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_26_Debug CMakeFiles/lab_ushtrimi_26.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_26.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_26.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_26.exe
+  TARGET_IMPLIB = liblab_ushtrimi_26.dll.a
+  TARGET_PDB = lab_ushtrimi_26.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_27
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_27
+
+build cmake_object_order_depends_target_lab_ushtrimi_27: phony || .
+
+build CMakeFiles/lab_ushtrimi_27.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_27.cpp.obj: CXX_COMPILER__lab_ushtrimi_27_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_27.cpp || cmake_object_order_depends_target_lab_ushtrimi_27
+  DEP_FILE = CMakeFiles\lab_ushtrimi_27.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_27.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_27.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_27.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_27
+
+
+#############################################
+# Link the executable lab_ushtrimi_27.exe
+
+build lab_ushtrimi_27.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_27_Debug CMakeFiles/lab_ushtrimi_27.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_27.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_27.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_27.exe
+  TARGET_IMPLIB = liblab_ushtrimi_27.dll.a
+  TARGET_PDB = lab_ushtrimi_27.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_28
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_28
+
+build cmake_object_order_depends_target_lab_ushtrimi_28: phony || .
+
+build CMakeFiles/lab_ushtrimi_28.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_28.cpp.obj: CXX_COMPILER__lab_ushtrimi_28_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_28.cpp || cmake_object_order_depends_target_lab_ushtrimi_28
+  DEP_FILE = CMakeFiles\lab_ushtrimi_28.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_28.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_28.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_28.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_28
+
+
+#############################################
+# Link the executable lab_ushtrimi_28.exe
+
+build lab_ushtrimi_28.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_28_Debug CMakeFiles/lab_ushtrimi_28.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_28.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_28.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_28.exe
+  TARGET_IMPLIB = liblab_ushtrimi_28.dll.a
+  TARGET_PDB = lab_ushtrimi_28.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_29
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_29
+
+build cmake_object_order_depends_target_lab_ushtrimi_29: phony || .
+
+build CMakeFiles/lab_ushtrimi_29.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_29.cpp.obj: CXX_COMPILER__lab_ushtrimi_29_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_29.cpp || cmake_object_order_depends_target_lab_ushtrimi_29
+  DEP_FILE = CMakeFiles\lab_ushtrimi_29.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_29.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_29.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_29.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_29
+
+
+#############################################
+# Link the executable lab_ushtrimi_29.exe
+
+build lab_ushtrimi_29.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_29_Debug CMakeFiles/lab_ushtrimi_29.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_29.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_29.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_29.exe
+  TARGET_IMPLIB = liblab_ushtrimi_29.dll.a
+  TARGET_PDB = lab_ushtrimi_29.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab_ushtrimi_30
+
+
+#############################################
+# Order-only phony target for lab_ushtrimi_30
+
+build cmake_object_order_depends_target_lab_ushtrimi_30: phony || .
+
+build CMakeFiles/lab_ushtrimi_30.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_30.cpp.obj: CXX_COMPILER__lab_ushtrimi_30_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab_ushtrime/lab_ushtrimi_30.cpp || cmake_object_order_depends_target_lab_ushtrimi_30
+  DEP_FILE = CMakeFiles\lab_ushtrimi_30.dir\labs_vezhbi\lab_ushtrime\lab_ushtrimi_30.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_30.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab_ushtrimi_30.dir\labs_vezhbi\lab_ushtrime
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab_ushtrimi_30
+
+
+#############################################
+# Link the executable lab_ushtrimi_30.exe
+
+build lab_ushtrimi_30.exe: CXX_EXECUTABLE_LINKER__lab_ushtrimi_30_Debug CMakeFiles/lab_ushtrimi_30.dir/labs_vezhbi/lab_ushtrime/lab_ushtrimi_30.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab_ushtrimi_30.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab_ushtrimi_30.exe
+  TARGET_IMPLIB = liblab_ushtrimi_30.dll.a
+  TARGET_PDB = lab_ushtrimi_30.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target ispitna1
 
 
@@ -3756,9 +4482,51 @@ build lab_nedela_3_3v2: phony lab_nedela_3_3v2.exe
 
 build lab_ushtrimi_1: phony lab_ushtrimi_1.exe
 
+build lab_ushtrimi_10: phony lab_ushtrimi_10.exe
+
+build lab_ushtrimi_11: phony lab_ushtrimi_11.exe
+
+build lab_ushtrimi_12: phony lab_ushtrimi_12.exe
+
+build lab_ushtrimi_13: phony lab_ushtrimi_13.exe
+
+build lab_ushtrimi_14: phony lab_ushtrimi_14.exe
+
+build lab_ushtrimi_15: phony lab_ushtrimi_15.exe
+
+build lab_ushtrimi_16: phony lab_ushtrimi_16.exe
+
+build lab_ushtrimi_17: phony lab_ushtrimi_17.exe
+
+build lab_ushtrimi_18: phony lab_ushtrimi_18.exe
+
+build lab_ushtrimi_19: phony lab_ushtrimi_19.exe
+
 build lab_ushtrimi_2: phony lab_ushtrimi_2.exe
 
+build lab_ushtrimi_20: phony lab_ushtrimi_20.exe
+
+build lab_ushtrimi_21: phony lab_ushtrimi_21.exe
+
+build lab_ushtrimi_22: phony lab_ushtrimi_22.exe
+
+build lab_ushtrimi_23: phony lab_ushtrimi_23.exe
+
+build lab_ushtrimi_24: phony lab_ushtrimi_24.exe
+
+build lab_ushtrimi_25: phony lab_ushtrimi_25.exe
+
+build lab_ushtrimi_26: phony lab_ushtrimi_26.exe
+
+build lab_ushtrimi_27: phony lab_ushtrimi_27.exe
+
+build lab_ushtrimi_28: phony lab_ushtrimi_28.exe
+
+build lab_ushtrimi_29: phony lab_ushtrimi_29.exe
+
 build lab_ushtrimi_3: phony lab_ushtrimi_3.exe
+
+build lab_ushtrimi_30: phony lab_ushtrimi_30.exe
 
 build lab_ushtrimi_4: phony lab_ushtrimi_4.exe
 
@@ -3769,6 +4537,8 @@ build lab_ushtrimi_6: phony lab_ushtrimi_6.exe
 build lab_ushtrimi_7: phony lab_ushtrimi_7.exe
 
 build lab_ushtrimi_8: phony lab_ushtrimi_8.exe
+
+build lab_ushtrimi_9: phony lab_ushtrimi_9.exe
 
 build labs2_1: phony labs2_1.exe
 
@@ -3784,7 +4554,7 @@ build labs2_3: phony labs2_3.exe
 #############################################
 # Folder: D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug
 
-build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe aud7_3.exe aud7_4.exe aud7_5.exe aud7_6.exe aud7_7.exe aud7_8.exe aud8_1.exe aud8_2.exe aud8_3.exe aud8_4.exe aud8_5.exe aud8_6.exe aud8_7.exe aud8_8.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
+build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe aud7_3.exe aud7_4.exe aud7_5.exe aud7_6.exe aud7_7.exe aud7_8.exe aud8_1.exe aud8_2.exe aud8_3.exe aud8_4.exe aud8_5.exe aud8_6.exe aud8_7.exe aud8_8.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe lab_ushtrimi_9.exe lab_ushtrimi_10.exe lab_ushtrimi_11.exe lab_ushtrimi_12.exe lab_ushtrimi_13.exe lab_ushtrimi_14.exe lab_ushtrimi_15.exe lab_ushtrimi_16.exe lab_ushtrimi_17.exe lab_ushtrimi_18.exe lab_ushtrimi_19.exe lab_ushtrimi_20.exe lab_ushtrimi_21.exe lab_ushtrimi_22.exe lab_ushtrimi_23.exe lab_ushtrimi_24.exe lab_ushtrimi_25.exe lab_ushtrimi_26.exe lab_ushtrimi_27.exe lab_ushtrimi_28.exe lab_ushtrimi_29.exe lab_ushtrimi_30.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
 
 # =============================================================================
 # Built-in targets

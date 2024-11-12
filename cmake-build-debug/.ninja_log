@@ -18,6 +18,7 @@
 569	932	7519938720022576	labs2_1.exe	7021c67cd71fc3bf
 6	435	7519942460071650	CMakeFiles/aud5_2.dir/aud_vezhbi/main13.cpp.obj	133445ef6533ad96
 436	609	7519942464373255	aud5_2.exe	9f091b70249d1467
+529	657	7531043570584181	ispitna19.exe	251b39fe8cdefc63
 26	475	7519941359015572	CMakeFiles/aud5_1.dir/aud_vezhbi/main12.cpp.obj	668477e7197db89b
 10	541	7519965931847856	CMakeFiles/aud5_3.dir/aud_vezhbi/main14.cpp.obj	4f2d6999f7913da
 542	660	7519965937164863	aud5_3.exe	521eb74fa9040df1
@@ -27,7 +28,7 @@
 4	624	7519974694765747	CMakeFiles/aud5_5.dir/aud_vezhbi/main16.cpp.obj	3e135cd7cdee3b5e
 624	771	7519974700963537	aud5_5.exe	4e757c26d1eddcb0
 30	507	7519984162372327	CMakeFiles/aud5_6.dir/aud_vezhbi/main17.cpp.obj	610568ca4517cba7
-16	1320	7530239619083413	build.ninja	afa52f3ff7edf3d6
+79	2551	7531057185234865	build.ninja	afa52f3ff7edf3d6
 24	628	7525994682030388	CMakeFiles/aud5_8.dir/aud_vezhbi/zad19.cpp.obj	a20e97d02f05cd22
 684	787	7526019412350465	aud6_2.exe	385ea7d8db8d2497
 628	786	7525994688078643	aud5_8.exe	dc26f29795aca20f
@@ -36,8 +37,10 @@
 19	692	7526033122640728	CMakeFiles/aud6_5.dir/aud_vezhbi/zad24.cpp.obj	675a54d6fb4d3421
 8	555	7525999917786415	CMakeFiles/aud6_1.dir/aud_vezhbi/zad20.cpp.obj	27fac7614abea02b
 20	684	7526019405620128	CMakeFiles/aud6_2.dir/aud_vezhbi/zad21.cpp.obj	b67bf2f9e4bf314d
-79	2551	7530239619083413	build.ninja	afa52f3ff7edf3d6
 17	1513	7530239718641103	CMakeFiles/ispitna15.dir/ispitni_vezhbi/ispitna15.cpp.obj	2e0f3c14bacaac7e
 1514	1999	7530239733613393	ispitna15.exe	bed64104322e7dc9
 37	736	7530814797828432	CMakeFiles/lab4_1.dir/labs_vezhbi/lab_nedela_4_1.cpp.obj	eee7ee55cb8a12be
 736	1201	7530814804817696	lab4_1.exe	ccca0f6ab8e471b5
+19	441	7531027260884964	CMakeFiles/ispitna18.dir/ispitni_vezhbi/ispitna18.cpp.obj	158a634bdd271c6c
+441	576	7531027265103063	ispitna18.exe	a55f9c2400530bfc
+20	529	7531043565483489	CMakeFiles/ispitna19.dir/ispitni_vezhbi/ispitna19.cpp.obj	fe407c0d5dd18953
