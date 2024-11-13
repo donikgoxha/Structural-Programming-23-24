@@ -22,30 +22,31 @@ Output
 #include <iostream>
 using namespace std;
 
-int countOccurances(int n, int c) {
+int countOccurrence(int number, int digit) {
     int count = 0;
-    while (n > 0) {
-        if (n % 10 == c) {
+    while (number > 0) {
+        if (number % 10 == digit) {
             count++;
         }
-        n = n / 10;
+        number /= 10;
     }
     return count;
 }
 
 int main() {
-    int x, c, p;
-    cin >> x >> c >> p;
+    int m, n, p;
+    cin >> m >> n >> p;
 
     int foundNumbers = 0;
-    int currentNumbers = x + 1;
+    int currentNumber = m + 1;
 
-    while (foundNumbers < p) {
-        if (countOccurances(currentNumbers, c) == p) {
-            cout << currentNumbers << endl;
+    while (foundNumbers < 10) {
+        if (countOccurrence(currentNumber, n) == p) {
+            cout << currentNumber << endl;
             foundNumbers++;
         }
-        currentNumbers++;
+        currentNumber++;
     }
+
     return 0;
 }

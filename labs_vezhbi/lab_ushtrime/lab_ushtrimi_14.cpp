@@ -5,10 +5,7 @@
 using namespace std;
 
 int main() {
-    int n, m;
-    cin >> n >> m;
-    //pocetok m
-    //kraj n
+
 
 
     return 0;

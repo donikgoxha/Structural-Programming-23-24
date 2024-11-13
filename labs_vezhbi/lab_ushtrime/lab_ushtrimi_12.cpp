@@ -17,14 +17,15 @@ int main() {
     int a, b, c;
     cin >> a >> b >> c;
     if (a > b) {
-        if (b > c) {
-            swap(a, b);
-        }
-    } else {
-        if (b > c) {
-            swap(b, c);
-        }
+        swap(a, b);
     }
+    if (a > c) {
+        swap(a, c);
+    }
+    if (b > c) {
+        swap(b, c);
+    }
+    cout << a << " " << b << " " << c << endl;
 
 
     return 0;
