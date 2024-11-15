@@ -25,7 +25,8 @@ int main() {
     if (x % 2 == 1) {
         x = x - 1;
     }
-    for (int i = x; i > 0; i -= 2) {
+    for (int i = x; i > 0; i -= 2) //or you can go with i >= 2 and i--
+    {
         cout << i << "*" << i << "=" << i * i << endl;
         counter++;
         suma += i * i;
