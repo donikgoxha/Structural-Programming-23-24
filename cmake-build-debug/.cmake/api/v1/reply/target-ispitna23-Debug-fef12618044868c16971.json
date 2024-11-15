@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "ispitna22.exe"
+			"path" : "ispitna23.exe"
 		},
 		{
-			"path" : "ispitna22.pdb"
+			"path" : "ispitna23.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 123,
+				"line" : 124,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "ispitna22::@6890427a1f51a3e7e1df",
+	"id" : "ispitna23::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ispitna22",
-	"nameOnDisk" : "ispitna22.exe",
+	"name" : "ispitna23",
+	"nameOnDisk" : "ispitna23.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "ispitni_vezhbi/ispitna22.cpp",
+			"path" : "ispitni_vezhbi/ispitna23_kolokvium_mk_zad2_grupa2.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
