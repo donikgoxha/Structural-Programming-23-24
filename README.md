@@ -1,3 +1,3 @@
 # **Structural Programming**
 
-Hello, these are my exercises solved in C++.
+My work for Structural Programming in C++!
