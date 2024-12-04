@@ -1493,6 +1493,237 @@ build aud8_8.exe: CXX_EXECUTABLE_LINKER__aud8_8_Debug CMakeFiles/aud8_8.dir/aud_
   TARGET_PDB = aud8_8.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target aud8_9
+
+
+#############################################
+# Order-only phony target for aud8_9
+
+build cmake_object_order_depends_target_aud8_9: phony || .
+
+build CMakeFiles/aud8_9.dir/aud_vezhbi/zad44.cpp.obj: CXX_COMPILER__aud8_9_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad44.cpp || cmake_object_order_depends_target_aud8_9
+  DEP_FILE = CMakeFiles\aud8_9.dir\aud_vezhbi\zad44.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_9.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_9.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_9
+
+
+#############################################
+# Link the executable aud8_9.exe
+
+build aud8_9.exe: CXX_EXECUTABLE_LINKER__aud8_9_Debug CMakeFiles/aud8_9.dir/aud_vezhbi/zad44.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_9.exe
+  TARGET_IMPLIB = libaud8_9.dll.a
+  TARGET_PDB = aud8_9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_10
+
+
+#############################################
+# Order-only phony target for aud8_10
+
+build cmake_object_order_depends_target_aud8_10: phony || .
+
+build CMakeFiles/aud8_10.dir/aud_vezhbi/zad45.cpp.obj: CXX_COMPILER__aud8_10_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad45.cpp || cmake_object_order_depends_target_aud8_10
+  DEP_FILE = CMakeFiles\aud8_10.dir\aud_vezhbi\zad45.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_10.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_10.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_10
+
+
+#############################################
+# Link the executable aud8_10.exe
+
+build aud8_10.exe: CXX_EXECUTABLE_LINKER__aud8_10_Debug CMakeFiles/aud8_10.dir/aud_vezhbi/zad45.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_10.exe
+  TARGET_IMPLIB = libaud8_10.dll.a
+  TARGET_PDB = aud8_10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_11
+
+
+#############################################
+# Order-only phony target for aud8_11
+
+build cmake_object_order_depends_target_aud8_11: phony || .
+
+build CMakeFiles/aud8_11.dir/aud_vezhbi/zad46.cpp.obj: CXX_COMPILER__aud8_11_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad46.cpp || cmake_object_order_depends_target_aud8_11
+  DEP_FILE = CMakeFiles\aud8_11.dir\aud_vezhbi\zad46.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_11.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_11.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_11
+
+
+#############################################
+# Link the executable aud8_11.exe
+
+build aud8_11.exe: CXX_EXECUTABLE_LINKER__aud8_11_Debug CMakeFiles/aud8_11.dir/aud_vezhbi/zad46.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_11.exe
+  TARGET_IMPLIB = libaud8_11.dll.a
+  TARGET_PDB = aud8_11.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_12
+
+
+#############################################
+# Order-only phony target for aud8_12
+
+build cmake_object_order_depends_target_aud8_12: phony || .
+
+build CMakeFiles/aud8_12.dir/aud_vezhbi/zad47.cpp.obj: CXX_COMPILER__aud8_12_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad47.cpp || cmake_object_order_depends_target_aud8_12
+  DEP_FILE = CMakeFiles\aud8_12.dir\aud_vezhbi\zad47.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_12.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_12.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_12
+
+
+#############################################
+# Link the executable aud8_12.exe
+
+build aud8_12.exe: CXX_EXECUTABLE_LINKER__aud8_12_Debug CMakeFiles/aud8_12.dir/aud_vezhbi/zad47.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_12.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_12.exe
+  TARGET_IMPLIB = libaud8_12.dll.a
+  TARGET_PDB = aud8_12.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_13
+
+
+#############################################
+# Order-only phony target for aud8_13
+
+build cmake_object_order_depends_target_aud8_13: phony || .
+
+build CMakeFiles/aud8_13.dir/aud_vezhbi/zad48.cpp.obj: CXX_COMPILER__aud8_13_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad48.cpp || cmake_object_order_depends_target_aud8_13
+  DEP_FILE = CMakeFiles\aud8_13.dir\aud_vezhbi\zad48.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_13.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_13.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_13
+
+
+#############################################
+# Link the executable aud8_13.exe
+
+build aud8_13.exe: CXX_EXECUTABLE_LINKER__aud8_13_Debug CMakeFiles/aud8_13.dir/aud_vezhbi/zad48.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_13.exe
+  TARGET_IMPLIB = libaud8_13.dll.a
+  TARGET_PDB = aud8_13.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_14
+
+
+#############################################
+# Order-only phony target for aud8_14
+
+build cmake_object_order_depends_target_aud8_14: phony || .
+
+build CMakeFiles/aud8_14.dir/aud_vezhbi/zad49.cpp.obj: CXX_COMPILER__aud8_14_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad49.cpp || cmake_object_order_depends_target_aud8_14
+  DEP_FILE = CMakeFiles\aud8_14.dir\aud_vezhbi\zad49.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_14.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_14.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_14
+
+
+#############################################
+# Link the executable aud8_14.exe
+
+build aud8_14.exe: CXX_EXECUTABLE_LINKER__aud8_14_Debug CMakeFiles/aud8_14.dir/aud_vezhbi/zad49.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_14.exe
+  TARGET_IMPLIB = libaud8_14.dll.a
+  TARGET_PDB = aud8_14.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud8_15
+
+
+#############################################
+# Order-only phony target for aud8_15
+
+build cmake_object_order_depends_target_aud8_15: phony || .
+
+build CMakeFiles/aud8_15.dir/aud_vezhbi/zad50.cpp.obj: CXX_COMPILER__aud8_15_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/aud_vezhbi/zad50.cpp || cmake_object_order_depends_target_aud8_15
+  DEP_FILE = CMakeFiles\aud8_15.dir\aud_vezhbi\zad50.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aud8_15.dir
+  OBJECT_FILE_DIR = CMakeFiles\aud8_15.dir\aud_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud8_15
+
+
+#############################################
+# Link the executable aud8_15.exe
+
+build aud8_15.exe: CXX_EXECUTABLE_LINKER__aud8_15_Debug CMakeFiles/aud8_15.dir/aud_vezhbi/zad50.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\aud8_15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = aud8_15.exe
+  TARGET_IMPLIB = libaud8_15.dll.a
+  TARGET_PDB = aud8_15.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target lab1_1
 
 
@@ -4364,6 +4595,18 @@ build aud7_8: phony aud7_8.exe
 
 build aud8_1: phony aud8_1.exe
 
+build aud8_10: phony aud8_10.exe
+
+build aud8_11: phony aud8_11.exe
+
+build aud8_12: phony aud8_12.exe
+
+build aud8_13: phony aud8_13.exe
+
+build aud8_14: phony aud8_14.exe
+
+build aud8_15: phony aud8_15.exe
+
 build aud8_2: phony aud8_2.exe
 
 build aud8_3: phony aud8_3.exe
@@ -4377,6 +4620,8 @@ build aud8_6: phony aud8_6.exe
 build aud8_7: phony aud8_7.exe
 
 build aud8_8: phony aud8_8.exe
+
+build aud8_9: phony aud8_9.exe
 
 build ispitna1: phony ispitna1.exe
 
@@ -4554,7 +4799,7 @@ build labs2_3: phony labs2_3.exe
 #############################################
 # Folder: D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug
 
-build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe aud7_3.exe aud7_4.exe aud7_5.exe aud7_6.exe aud7_7.exe aud7_8.exe aud8_1.exe aud8_2.exe aud8_3.exe aud8_4.exe aud8_5.exe aud8_6.exe aud8_7.exe aud8_8.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe lab_ushtrimi_9.exe lab_ushtrimi_10.exe lab_ushtrimi_11.exe lab_ushtrimi_12.exe lab_ushtrimi_13.exe lab_ushtrimi_14.exe lab_ushtrimi_15.exe lab_ushtrimi_16.exe lab_ushtrimi_17.exe lab_ushtrimi_18.exe lab_ushtrimi_19.exe lab_ushtrimi_20.exe lab_ushtrimi_21.exe lab_ushtrimi_22.exe lab_ushtrimi_23.exe lab_ushtrimi_24.exe lab_ushtrimi_25.exe lab_ushtrimi_26.exe lab_ushtrimi_27.exe lab_ushtrimi_28.exe lab_ushtrimi_29.exe lab_ushtrimi_30.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
+build all: phony aud3_1.exe aud3_2.exe aud3_3.exe aud3_4.exe aud4_1.exe aud4_2.exe aud4_3.exe aud4_4.exe aud4_5.exe aud4_6.exe aud4_7.exe aud4_8.exe aud5_1.exe aud5_2.exe aud5_3.exe aud5_4.exe aud5_5.exe aud5_6.exe aud5_7.exe aud5_8.exe aud6_1.exe aud6_2.exe aud6_3.exe aud6_4.exe aud6_5.exe aud6_6.exe aud6_7.exe aud6_8.exe aud7_1.exe aud7_2.exe aud7_3.exe aud7_4.exe aud7_5.exe aud7_6.exe aud7_7.exe aud7_8.exe aud8_1.exe aud8_2.exe aud8_3.exe aud8_4.exe aud8_5.exe aud8_6.exe aud8_7.exe aud8_8.exe aud8_9.exe aud8_10.exe aud8_11.exe aud8_12.exe aud8_13.exe aud8_14.exe aud8_15.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe lab_ushtrimi_9.exe lab_ushtrimi_10.exe lab_ushtrimi_11.exe lab_ushtrimi_12.exe lab_ushtrimi_13.exe lab_ushtrimi_14.exe lab_ushtrimi_15.exe lab_ushtrimi_16.exe lab_ushtrimi_17.exe lab_ushtrimi_18.exe lab_ushtrimi_19.exe lab_ushtrimi_20.exe lab_ushtrimi_21.exe lab_ushtrimi_22.exe lab_ushtrimi_23.exe lab_ushtrimi_24.exe lab_ushtrimi_25.exe lab_ushtrimi_26.exe lab_ushtrimi_27.exe lab_ushtrimi_28.exe lab_ushtrimi_29.exe lab_ushtrimi_30.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
 
 # =============================================================================
 # Built-in targets
