@@ -42,6 +42,13 @@ D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFil
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_6.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_7.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_8.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_9.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_10.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_11.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_12.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_13.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_14.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/aud8_15.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab1_1.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab_1_2.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/labs2_1.dir

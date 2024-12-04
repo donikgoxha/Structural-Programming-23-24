@@ -1,4 +1,4 @@
-//vs mk matriksat ispitna pt 2 me x jo me plusa
+//vs mk matriksat ispitna
 #include <iostream>
 using namespace std;
 
