@@ -1,4 +1,4 @@
-//aud11 zad5
+//aud11 zad4
 #include <iostream>
 using namespace std;
 
