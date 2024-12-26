@@ -1,35 +1,44 @@
 #include <iostream>
-#include <iomanip>
-
 using namespace std;
 
-void transform1(int &max1, int &min1, int &diff, int &sum, int v[], int &a) {
-    for (int i = 0; i < a; i++) {
-        if (max1 < v[i]) max1 = v[i];
-        if (min1 > v[i]) min1 = v[i];
-        sum += v[i];
+void processArray(int *arr, int n, int &max, int &min, int &sum) {
+    max = arr[0];
+    min = arr[0];
+    sum = 0;
+
+    for (int i = 0; i < n; i++) {
+        if (*(arr + i) > max) max = *(arr + i);
+        if (*(arr + i) < min) min = *(arr + i);
+        sum += *(arr + i);
     }
-    diff = max1 - min1;
-    for (int i = 0; i < a; i++) {
-        v[i] += diff;
+
+    int diff = max - min;
+
+    for (int i = 0; i < n; i++) {
+        *(arr + i) += diff;
     }
 }
 
 int main() {
-    int a;
-    cin >> a;
-    int v[100];
-    for (int i = 0; i < a; i++) cin >> v[i];
-    int max1 = 0;
-    int min1 = 100;
-    int diff;
-    int sum = 0;
+    int n;
+    cin >> n;
+    int arr[n];
 
-    transform1(max1, min1, diff, sum, v, a);
+    for (int i = 0; i < n; i++) {
+        cin >> *(arr + i);
+    }
 
-    cout << "MAX -> " << max1 << endl;
-    cout << "MIN -> " << min1 << endl;
+    int max, min, sum;
+    processArray(arr, n, max, min, sum);
+
+    cout << "MAX -> " << max << endl;
+    cout << "MIN -> " << min << endl;
     cout << "SUM -> " << sum << endl;
-    for (int i = 0; i < a; i++)
-        cout << v[i] << " ";
+
+    for (int i = 0; i < n; i++) {
+        cout << *(arr + i) << " ";
+    }
+    cout << endl;
+
+    return 0;
 }

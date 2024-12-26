@@ -1,27 +1,35 @@
 #include <iostream>
 #include <iomanip>
-
 using namespace std;
 
-void scale(float &ratio1, float v[], int &a) {
-    float max1 = 0;
-    for (int i = 0; i < a; i++) if (max1 < v[i]) max1 = v[i];
-    ratio1 = 100 / max1;
-    for (int i = 0; i < a; i++) v[i] *= ratio1;
+void scale(int scores[], int n) {
+    int max = scores[0];
+    for (int i = 1; i < n; i++) {
+        if (scores[i] > max) max = scores[i];
+    }
+
+    double ratio = 100.0 / max;
+
+    for (int i = 0; i < n; i++) {
+        scores[i] = scores[i] * ratio;
+    }
 }
 
 int main() {
-    int a;
-    cin >> a;
+    int n;
+    cin >> n;
+    int scores[100];
 
-    float v[100];
+    for (int i = 0; i < n; i++) {
+        cin >> scores[i];
+    }
 
-    for (int i = 0; i < a; i++) {
-        cin >> v[i];
+    scale(scores, n);
+
+    for (int i = 0; i < n; i++) {
+        cout << fixed << setprecision(2) << scores[i] << " ";
     }
-    float ratio1;
-    scale(ratio1, v, a);
-    for (int i = 0; i < a; i++) {
-        cout << fixed << setprecision(2) << v[i] << " ";
-    }
+    cout << endl;
+
+    return 0;
 }
