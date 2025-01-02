@@ -86,6 +86,9 @@ D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFil
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab8_1.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab8_2.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab8_3.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab9_1.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab9_2.dir
+D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab9_3.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab_ushtrimi_1.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab_ushtrimi_2.dir
 D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug/CMakeFiles/lab_ushtrimi_3.dir

@@ -2945,6 +2945,105 @@ build lab8_3.exe: CXX_EXECUTABLE_LINKER__lab8_3_Debug CMakeFiles/lab8_3.dir/labs
   TARGET_PDB = lab8_3.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target lab9_1
+
+
+#############################################
+# Order-only phony target for lab9_1
+
+build cmake_object_order_depends_target_lab9_1: phony || .
+
+build CMakeFiles/lab9_1.dir/labs_vezhbi/lab9_det1.cpp.obj: CXX_COMPILER__lab9_1_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab9_det1.cpp || cmake_object_order_depends_target_lab9_1
+  DEP_FILE = CMakeFiles\lab9_1.dir\labs_vezhbi\lab9_det1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab9_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab9_1.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab9_1
+
+
+#############################################
+# Link the executable lab9_1.exe
+
+build lab9_1.exe: CXX_EXECUTABLE_LINKER__lab9_1_Debug CMakeFiles/lab9_1.dir/labs_vezhbi/lab9_det1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab9_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab9_1.exe
+  TARGET_IMPLIB = liblab9_1.dll.a
+  TARGET_PDB = lab9_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab9_2
+
+
+#############################################
+# Order-only phony target for lab9_2
+
+build cmake_object_order_depends_target_lab9_2: phony || .
+
+build CMakeFiles/lab9_2.dir/labs_vezhbi/lab9_det2.cpp.obj: CXX_COMPILER__lab9_2_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab9_det2.cpp || cmake_object_order_depends_target_lab9_2
+  DEP_FILE = CMakeFiles\lab9_2.dir\labs_vezhbi\lab9_det2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab9_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab9_2.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab9_2
+
+
+#############################################
+# Link the executable lab9_2.exe
+
+build lab9_2.exe: CXX_EXECUTABLE_LINKER__lab9_2_Debug CMakeFiles/lab9_2.dir/labs_vezhbi/lab9_det2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab9_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab9_2.exe
+  TARGET_IMPLIB = liblab9_2.dll.a
+  TARGET_PDB = lab9_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lab9_3
+
+
+#############################################
+# Order-only phony target for lab9_3
+
+build cmake_object_order_depends_target_lab9_3: phony || .
+
+build CMakeFiles/lab9_3.dir/labs_vezhbi/lab9_det3.cpp.obj: CXX_COMPILER__lab9_3_unscanned_Debug D$:/documents/CLASSES/strukturno$ programiranje/sp24-25/labs_vezhbi/lab9_det3.cpp || cmake_object_order_depends_target_lab9_3
+  DEP_FILE = CMakeFiles\lab9_3.dir\labs_vezhbi\lab9_det3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lab9_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab9_3.dir\labs_vezhbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lab9_3
+
+
+#############################################
+# Link the executable lab9_3.exe
+
+build lab9_3.exe: CXX_EXECUTABLE_LINKER__lab9_3_Debug CMakeFiles/lab9_3.dir/labs_vezhbi/lab9_det3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lab9_3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lab9_3.exe
+  TARGET_IMPLIB = liblab9_3.dll.a
+  TARGET_PDB = lab9_3.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target lab_ushtrimi_1
 
 
@@ -5380,6 +5479,12 @@ build lab8_2: phony lab8_2.exe
 
 build lab8_3: phony lab8_3.exe
 
+build lab9_1: phony lab9_1.exe
+
+build lab9_2: phony lab9_2.exe
+
+build lab9_3: phony lab9_3.exe
+
 build lab_1_2: phony lab_1_2.exe
 
 build lab_nedela_3_1v2: phony lab_nedela_3_1v2.exe
@@ -5604,7 +5709,7 @@ build zad9: phony zad9.exe
 #############################################
 # Folder: D:/documents/CLASSES/strukturno programiranje/sp24-25/cmake-build-debug
 
-build all: phony zad0.exe zad1.exe zad2.exe zad3.exe zad4.exe zad5.exe zad6.exe zad7.exe zad8.exe zad9.exe zad10.exe zad11.exe zad12.exe zad13.exe zad14.exe zad15.exe zad16.exe zad17.exe zad18.exe zad19.exe zad20.exe zad21.exe zad22.exe zad23.exe zad24.exe zad25.exe zad26.exe zad27.exe zad28.exe zad29.exe zad30.exe zad31.exe zad32.exe zad33.exe zad34.exe zad35.exe zad36.exe zad37.exe zad38.exe zad39.exe zad40.exe zad41.exe zad42.exe zad43.exe zad44.exe zad45.exe zad46.exe zad47.exe zad48.exe zad49.exe zad50.exe zad51.exe zad52.exe zad53.exe zad54.exe zad55.exe zad56.exe zad57.exe zad58.exe zad59.exe zad60.exe zad61.exe zad62.exe zad63.exe zad64.exe zad65.exe zad66.exe zad67.exe zad68.exe zad69.exe zad70.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab8_1.exe lab8_2.exe lab8_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe lab_ushtrimi_9.exe lab_ushtrimi_10.exe lab_ushtrimi_11.exe lab_ushtrimi_12.exe lab_ushtrimi_13.exe lab_ushtrimi_14.exe lab_ushtrimi_15.exe lab_ushtrimi_16.exe lab_ushtrimi_17.exe lab_ushtrimi_18.exe lab_ushtrimi_19.exe lab_ushtrimi_20.exe lab_ushtrimi_21.exe lab_ushtrimi_22.exe lab_ushtrimi_23.exe lab_ushtrimi_24.exe lab_ushtrimi_25.exe lab_ushtrimi_26.exe lab_ushtrimi_27.exe lab_ushtrimi_28.exe lab_ushtrimi_29.exe lab_ushtrimi_30.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
+build all: phony zad0.exe zad1.exe zad2.exe zad3.exe zad4.exe zad5.exe zad6.exe zad7.exe zad8.exe zad9.exe zad10.exe zad11.exe zad12.exe zad13.exe zad14.exe zad15.exe zad16.exe zad17.exe zad18.exe zad19.exe zad20.exe zad21.exe zad22.exe zad23.exe zad24.exe zad25.exe zad26.exe zad27.exe zad28.exe zad29.exe zad30.exe zad31.exe zad32.exe zad33.exe zad34.exe zad35.exe zad36.exe zad37.exe zad38.exe zad39.exe zad40.exe zad41.exe zad42.exe zad43.exe zad44.exe zad45.exe zad46.exe zad47.exe zad48.exe zad49.exe zad50.exe zad51.exe zad52.exe zad53.exe zad54.exe zad55.exe zad56.exe zad57.exe zad58.exe zad59.exe zad60.exe zad61.exe zad62.exe zad63.exe zad64.exe zad65.exe zad66.exe zad67.exe zad68.exe zad69.exe zad70.exe lab1_1.exe lab_1_2.exe labs2_1.exe labs2_2.exe labs2_3.exe lab3_1.exe lab3_2.exe lab3_3.exe lab_nedela_3_1v2.exe lab_nedela_3_2v2.exe lab_nedela_3_3v2.exe lab4_1.exe lab4_2.exe lab4_3.exe lab8_1.exe lab8_2.exe lab8_3.exe lab9_1.exe lab9_2.exe lab9_3.exe lab_ushtrimi_1.exe lab_ushtrimi_2.exe lab_ushtrimi_3.exe lab_ushtrimi_4.exe lab_ushtrimi_5.exe lab_ushtrimi_6.exe lab_ushtrimi_7.exe lab_ushtrimi_8.exe lab_ushtrimi_9.exe lab_ushtrimi_10.exe lab_ushtrimi_11.exe lab_ushtrimi_12.exe lab_ushtrimi_13.exe lab_ushtrimi_14.exe lab_ushtrimi_15.exe lab_ushtrimi_16.exe lab_ushtrimi_17.exe lab_ushtrimi_18.exe lab_ushtrimi_19.exe lab_ushtrimi_20.exe lab_ushtrimi_21.exe lab_ushtrimi_22.exe lab_ushtrimi_23.exe lab_ushtrimi_24.exe lab_ushtrimi_25.exe lab_ushtrimi_26.exe lab_ushtrimi_27.exe lab_ushtrimi_28.exe lab_ushtrimi_29.exe lab_ushtrimi_30.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe
 
 # =============================================================================
 # Built-in targets
